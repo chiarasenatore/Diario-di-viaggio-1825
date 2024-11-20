@@ -281,254 +281,315 @@
         <body>
             <div type="Ristretto" xml:id="Ristretto">
                 <pb n="1" xml:id="Ristretto1" facs="data/images/single/1.jpg"/>
-                <head>Ristretto del viaggio di <placeName ref="#Milano">Milano</placeName></head>
-                <lb/>
-                <l>11 Aprile partenza da <placeName ref="#Napoli">Napoli</placeName></l>
-                <lb/>
-                <l>Da <placeName ref="#Napoli">Napoli</placeName> a <placeName ref="#MoladiGaeta"
-                        >Mola di Gaeta</placeName></l>
-                <lb/>
-                <l> 12 Aprile</l>
-                <lb/>
-                <l>Da <placeName ref="#MoladiGaeta">Mola di Gaeta</placeName> a <placeName
-                        ref="Velletri">Velletri</placeName></l>
-                <lb/>
-                <l>13 Aprile</l>
-                <lb/>
-                <l>Da <placeName ref="Velletri">Velletri</placeName> a <placeName ref="#Roma"
-                        >Roma</placeName></l>
-                <lb/>
-                <l>Visita al <persName ref="#Papa">Papa</persName> ed a <persName ref="#MariaTeresa"
-                        >Maria Teresa di Sardegna</persName>.</l>
-                <lb/>
-                <l>Si presentò al <persName ref="#Papa">Papa</persName> tutta la corte.</l>
-                <lb/>
-                <l>14 Aprile - Stazione in <placeName ref="#Roma">Roma</placeName></l>
-                <p>Si osservò il Vaticano ed il braccio nuovo Egizio del Museo e le altre sale
-                    nonché la chiesa di S. Pietro. Si andò dal pittor Napoletano Sessa, alla casa
-                    del Governo a vedere l'illuminazione di S. Pietro della girandola ed al Vaticano
-                    per le statue illuminate.</p>
-                <lb/>
-                <l>15 Aprile - Stazione in <placeName>Roma</placeName></l>
-                <lb/>
-                <l>Si videro le ruine di S. Paolo e diversi studi di scultori. </l>
-                <lb/>
-                <l>Visita delle Basiliche di S. Gio-</l>
-                <pb n="2" xml:id="Ristretto2" facs="data/images/single/2.jpg"/>
-                <p>vanni Laterano, dove vi sono le teste di SS. Pietro e Paolo, alla Scala Santa, in
-                    ginocchio, a S. Maria Maggiore a venerare le reliquie della Culla e molte altre
-                    insigni reliquie ed a Santa Maria a Trastevere.</p>
-                <lb/>
-                <l>16 Aprile - Stazione in <placeName ref="#Roma">Roma</placeName></l>
-                <p>Si andò alla Chiesa di S. Pietro a fare l'anno Santo, dove fu fatta la communione
-                    generale; dal Pittor <persName ref="#Wicar"><choice>
-                            <orig>Vicar</orig>
-                            <corr>Wicar</corr>
-                        </choice></persName> ad osservare il quadro del figlio della vedova di Naim,
-                    alla villa Pamfili, da Petra pittore di animali ed a vedere l'opera de'
-                    Pellegrini. Si fece visita alla Regina vedova di Sardegna.</p>
-                <lb/>
-                <l>17. Partenza da <placeName ref="#Roma">Roma</placeName></l>
-                <p>Congedo della Famiglia di Lucca e delle figlie <persName ref="#MariaTeresa">Maria
-                        Teresa di Sardegna</persName>, la Madre stando in incommodata col catarro.
-                    Si sentì la messa alla Chiesa della morte, e quindi a prender congedo dal
-                        <persName ref="#Papa">Papa</persName>. </p>
+                <head><lb/>Ristretto del viaggio di <placeName ref="#Milano"
+                    >Milano</placeName></head>
+                <div>
+                    <head>
+                        <lb/><date when="1825-04-11">11 Aprile</date> partenza da <placeName
+                            ref="#Napoli">Napoli</placeName></head>
+                    <p><lb/>Da <placeName ref="#Napoli">Napoli</placeName> a <placeName
+                            ref="#MoladiGaeta">Mola di Gaeta</placeName></p>
+                    <lb/>
+                </div>
+                <div>
+                    <head><lb/><date when="1825-04-12">12 detto <supplied>&#91;mese&#93;</supplied></date></head>
+                    <p><lb/>Da <placeName ref="#Napoli">Mola di Gaeta</placeName> a <placeName
+                            ref="#MoladiGaeta">Velletri</placeName></p>
+                    <lb/>
+                </div>
+                <div>
+                    <head><lb/><date when="1825-04-13">13 detto <supplied>&#91;mese&#93;</supplied></date></head>
+                    <p><lb/>Da <placeName ref="Velletri">Velletri</placeName> a <placeName
+                            ref="#Roma">Roma</placeName>. <lb/>Visita al <persName ref="#Papa"
+                            >Papa</persName> ed a <persName ref="#MariaTeresa">Maria Teresa di
+                            Sardegna</persName>. <lb/>Si presentò al <persName ref="#Papa"
+                            >Papa</persName> tutta <lb/>la corte.</p>
+                    <lb/>
+                </div>
+                <div>
+                    <head><lb/><date when="1825-04-14">14 detto <supplied>&#91;mese&#93;</supplied></date> - Stazione in <placeName
+                            ref="#Roma">Roma</placeName></head>
+                    <p><lb/>Si osservò il Vaticano ed il braccio <lb/>nuovo Egizio del Museo e le
+                        <lb/>altre sale nonché la chiesa <lb/>di S. Pietro. <lb/>Si andò dal pittor
+                        Napoletano Ses- <lb/>sa, alla casa del Governo a ve- <lb/>dere
+                        l'illuminazione di S. Pietro <lb/>della girandola ed al Vaticano <lb/>per le
+                        statue illuminate.</p>
+                    <lb/>
+                </div>
+                <div>
+                    <head><lb/><date when="1825-04-15">15 detto <supplied>&#91;mese&#93;</supplied></date> - Stazione in <placeName
+                            ref="#Roma">Roma</placeName></head>
+                    <p><lb/>Si videro le ruine di S. Paolo e di- <lb/>versi studi di scultori.
+                        <lb/>Visita delle Basiliche di S. Gio- <pb n="2" xml:id="Ristretto2"
+                            facs="data/images/single/2.jpg"/>
+                        <lb/>vanni Laterano, dove vi sono <lb/>le teste di SS. Pietro e Paolo,
+                        <lb/>alla Scala Santa, in ginocchio, <lb/>a S. Maria Maggiore a vene-
+                        <lb/>rare le reliquie della Culla e <lb/>molte altre insigni reliquie
+                        <lb/>ed a Santa Maria a Trastevere.</p>
+                    <lb/>
+                </div>
+                <div>
+                    <head><lb/><date when="1825-04-16">16 detto <supplied>&#91;mese&#93;</supplied></date> - Stazione in <placeName
+                            ref="#Roma">Roma</placeName></head>
+                    <p><lb/>Si andò alla Chiesa di S. Pietro <lb/>a fare l'anno Santo, dove fu
+                        <lb/>fatta la communione genera- <lb/>le; dal Pittor <persName ref="#Wicar"><choice>
+                                <orig>Vicar</orig>
+                                <corr>Wicar</corr>
+                            </choice></persName> ad osservare <lb/>il quadro del figlio della vedo-
+                        <lb/>va di Naim, alla villa Pamfili, <lb/>da Petra pittore di animali
+                        <lb/>ed a vedere l'opera de' Pellegri- <lb/>ni. Si fece visita alla Regina
+                        vedova <lb/>di Sardegna.</p>
+                    <lb/>
+                </div>
+                         <div>
+                             <head><lb/><date when="1825-04-17">17 detto <supplied>&#91;mese&#93;</supplied></date> - Partenza da <placeName
+                        ref="#Roma">Roma</placeName></head>
+                <p><lb/>Congedo della Famiglia di Lucca <lb/>e delle figlie <persName
+                        ref="#MariaTeresa">Maria Teresa di <lb/>Sardegna</persName>, la Madre stando
+                    <lb/>incommodata col catarro. <lb/>Si sentì la messa alla Chiesa <lb/>della
+                    morte, e quindi a prender <lb/>congedo dal <persName ref="#Papa"
+                    >Papa</persName>.</p>
+                             <lb/>
+            </div>
             </div>
             <div type="Diario" xml:id="Diario">
                 <pb n="3" xml:id="Diario1" facs="data/images/single/3.jpg"/>
                 <head>Giornale di viaggio di <placeName ref="#Milano">Milano</placeName></head>
                 <lb/>
-                <l>11 Aprile</l>
-                <p>Alzatomi, fatto qualche cosa, risediai tutte le carte, vidi varie persone che
-                    vennero a licenziarsi, vennero i figli a baciarci la mano li benedissi e ci
-                    licenziammo; alle dieci e mezzo partimmo in mezzo alle acclamazioni di tutta la
-                    popolazione io, mia moglie, il ragazzo ed il seguito composto de' Cavalieri
-                    Scilla, Sanvalentino ed Ascoli, delle Dame Sanvalentino, San Teodoro, il
-                    confessore ed altre persone di servizio, alle undici e mezza arrivammo ad
-                        <placeName ref="#Aversa">Aversa</placeName> vidi il vescovo e l'uffizialità,
-                    vi trovai un corriere d'Appelt, il quale mi disse che una delle carrozze di
-                        <persName ref="#Leopoldo">Leopoldo</persName> si era rotto il collodoco,
-                    prima di prendere la traversa di S. Maria fermammo e mia moglie diede latte , la
-                    strada in questa posta era orribile perché vi avevano posto il brecciale, nel
-                    passar <placeName ref="#Capua">Capua</placeName> vi fu la salva, i Generali, e
-                    la Truppa sopra le Armi e le Autorità si presentarono all'una e un quarto,
-                    arrivati </p>
-                <pb n="4" xml:id="Diario2" facs="data/images/single/4.jpg"/>
-                <p>all'Agena aspettammo il ragazzo che vi era rimasto dall'altra parte a motivo
-                    della salva e riuniti al medesimo riprendemmo il cammino, vicino allo
-                    spartimento si dovette alzare la carrozza che batteva, le campagne in tutti
-                    questi luoghi erano in ottimo stato, all'una e mezza essendo giunti a <placeName
-                        ref="#Sparanise"><choice>
-                            <orig>Sparanisi</orig>
-                            <corr>Sparanise</corr>
-                        </choice></placeName> nel cambiar la posta ci baciarono le mani tutte le
-                    Autorità e specialmente Lotti, Favalli ed il Vescovo di Calvi, alle 4 giunti a
-                    Sant'Agata salimmo alla Locanda per far colazione e si diede la zuppa al
-                    ragazzo, in questo mentre suonava la banda Tirolese ch'era là, proseguimmo il
-                    viaggio, passammo il ponte del Garigliano in carrozza, la strada essendo superba
-                    arrivammo alle 7 a <placeName ref="#MoladiGaeta">Mola</placeName>, vedemmo tutte
-                    le genti per complimento, pranzammo ed a letto. In questa giornata cadde un
-                    postiglione alla Porta del Garigliano della carrozza delle Mozze di Camera e si
-                    fece bastantemente male. </p>
-                <pb n="5" xml:id="Diario3" facs="data/images/single/5.jpg"/>
-                <lb/>
-                <l>12 Aprile</l>
-                <p>Questa notte poco ho dormito per il letto cattivo, alle cinque alzatomi feci
-                    colazione, intesi la messa, alle 8 partimmo con una superba giornata. Alle nove
-                    e mezza arrivammo ad <placeName ref="#Itri">Itri</placeName>, alle dieci e un
-                    quarto alla calata di Sant'Andrea, e quando siamo stati per prendere il piano,
-                    ci siamo fermati per dar latte al ragazzo. Alle dieci e tre quarti a <placeName
-                        ref="#Fondi">Fondi</placeName> abbiamo cambiata la posta, fuori la città vi
-                    era molto canapone che si maciollava, alle dodici e un quarto arrivammo a
-                        <placeName ref="#Terracina">Terracina</placeName>, vedemmo le Autorità del
-                    luogo, galantuomini ed altri che vollero presentarsi a noi, lì facemmo colazione
-                    con Sant'Agapita, Salluzzo, il Colonnello Marescolli, il Vescovo, il Marchese
-                    Massimo, che erano venuti per ordine di Sua Santità, ed attenderoci al confine,
-                    all'una e un quarto partimmo, le campagne tutte erano bellissime e verdi, e
-                    particolarmente era bello lo Stradone delle Paludi, le di cui campagne erano
-                    coverte di bestiame con erbaggio bellissimo; dopo la sosta di ponte maggiore
-                    cadde </p>
-                <pb n="6" xml:id="Diario4" facs="data/images/single/6.jpg"/>
-                <p>uno de' nostri postiglioni, e propriamente quello di mezzo, che si fece molto
-                    male, per cui si mandò per sandolo, alle due e mezza arrivammo a <placeName
-                        ref="#Mesa">Mesa</placeName>; alle tre e un quarto a <placeName
-                        ref="#BoccadiFiume">Bocca di Fiume</placeName>, là mia moglie diede latte, e
-                    poi ripartimmo; alle quattro arrivammo a <placeName ref="TorTrePonti"><choice>
-                            <orig>Torretreponti</orig>
-                            <corr>Tor Tre Ponti</corr>
-                        </choice></placeName> e cambiammo la posta; alle cinque a <placeName
-                        ref="#CisternadiLatina">Cisterna</placeName> ma non cambiammo, si misero
-                    però due altri cavalli; alle sette giungemmo a <placeName ref="#Velletri"
-                        >Velletri</placeName>, e fermammo alla Locanda della posta di Aringa; vidi i
-                    magistrati del luogo, feci qualche cosa, cenammo e alle dieci e un quarto a
-                    letto.</p>
-                <lb/>
-                <l>13 Aprile</l>
-                <p>Alzatomi, andammo a sentire la messa dei <choice>
-                        <orig>Sommaschi</orig>
-                        <corr>Somaschi</corr>
-                    </choice> alla Chiesa di S. Antonio; mia moglie diede latte, alle 8 partimmo,
-                    fuori la porta cadde il cavallo di timone alla nostra carrozza, poi a quella del
-                    ragazzo, quindi messici in cammino, poco dopo si lascia a destra una piccola
-                    cava di lava vulcanica, da cui ne cacciano le pietre per lastricare, la strada
-                    essendo tutte di colline poco si potè correre, avendo dovuto sempre legare, e </p>
-                <pb n="7" xml:id="Diario5" facs="data/images/single/7.jpg"/>
-                <p>sciogliere la scarpa; alle nove e mezza arrivammo a <placeName
-                        ref="#CisternadiLatina">Cisterna</placeName>, e non si cambiarono i cavalli,
-                    alle dieci e mezza giungemmo ad <placeName ref="#Albano">Albano</placeName>, ove
-                    vennero il Maestro di Camera Barberini e Fuscaldo, coi quali concertammo il modo
-                    di andare dal <persName ref="#Papa">Papa</persName>, poi girai la Casa ed il
-                    giardino che hanno appartenuto un tempo a Carlo IV; alle due e mezza partimmo e
-                    alle tre giungemmo a <placeName ref="#Torremezzavia">Torremezzavia</placeName>,
-                    lasciando indietro il ragazzo, arrivati a Porta San Giovanni fummo ricevuti da
-                    un picchetto di cavalleria pontificia e da altra <choice>
-                        <orig>tuppa</orig>
-                        <corr>truppa</corr>
-                    </choice> della stessa e fummo salutati dall'Artiglieria; giunti a Palazzo
-                    Farnese, ritrovammo <persName ref="#Leopoldo">Leopoldo</persName>, la moglie, i
-                    due cavalieri Sagarola ed Orsini e le due dame Doria e Piombino commessionati
-                    dal <persName ref="#Papa">Papa</persName>, li ringraziammo, poi vidi varie
-                    persone per complimenti e particolarmente Piombino, Barberini, Santo Buono
-                    Gentiluomo di Camera Napolitano, ci vestimmo ed andammo dal <persName
-                        ref="#Papa">Papa</persName>, che ci riceve' con somma cordialità quindi gli
-                    presentammo la nostra corte per baciargli il piede, dopo passammo dal-</p>
-                <pb n="8" xml:id="Diario6" facs="data/images/single/8.jpg"/>
-                <p>la Regina <persName ref="#MariaTeresa">Maria Teresa di Sardegna</persName> a
-                    villa Negrone, dove ci trattenemmo alquanto con lei, e con le Figlie, delle
-                    quali Marianna rassomiglia perfettamente a Teresa di Lucca, ritornati a Casa
-                    trovammo la famiglia di Lucca, pranzammo, ed a letto. </p>
-                <lb/>
-                <l>14 Aprile</l>
-                <p>Alzatomi, vidi l'ambasciatore di Francia Lavalle Montmorency e Monsignor
-                    Cerimoniere del <persName ref="#Papa">Papa</persName> per parlarmi del modo di
-                    guadagnare le indulgenze dell'anno Santo; poi vidi Medici, e Ruffo, e l'aiutante
-                    del Principe di Prussia Lappeto; vennero le figlie della Regina <persName
-                        ref="#MariaTeresa">Maria Teresa di Sardegna</persName> a farci visita, e
-                    molte persone a baciarci la mano; poi andammo al Vaticano a vedere il braccio
-                    nuovo Egizio del Museo, scorremmo le altre sale, la Chiesa di San Pietro, poi
-                    andammo dal pittore Napoletano Sessa, dopo ritornammo a casa e pranzammo, poi
-                    andammo alla casa del Governo a vedere l'illuminazione di San Pietro tutta di </p>
-                <pb n="9" xml:id="Diario7" facs="data/images/single/9.jpg"/>
-                <p>coppi di carta e poi ad un tratto s'illuminarono una gran quantità di padelle di
-                    ferro di materie combustibili che fu veramente magnifica, di là passammo alla
-                    casa del Governo ancora a vedere la girandola che fu uno spettacolo bellissimo
-                    ed avemmo gran quantità di gelati, poi andammo al Vaticano a vedere le statue
-                    illuminate, ci ritirammo a casa, ed a letto.</p>
-                <lb/>
-                <l>15 Aprile</l>
-                <p>Alzatomi, ci licenziammo con mio fratello Leopoldo e la moglie, che partirono, ed
-                    andammo a vedere le rovine di San Paolo, quindi ai studi seguenti, cioè di
-                        <persName ref="#Thorvaldsen"><choice>
-                            <orig> Torwalson</orig>
-                            <corr>Thorvaldsen</corr>
-                        </choice></persName> ch'è il migliore fra tutti i scultori, de' due suoi
-                    giovani <persName ref="#Bienaimé"><choice>
-                            <orig>Bianaimì</orig>
-                            <corr>Bienaimé</corr>
-                        </choice></persName> e <persName ref="#Tenerani"><choice>
-                            <orig>Tinerani</orig>
-                            <corr>Tenerani</corr>
-                        </choice></persName>, che anche hanno dei belli lavori molto graziosi; di
-                        <persName ref="#Alvarez">Alvarez</persName>, ch'è diventato molto mediocre;
-                    di Vescovati, ch'è rivenditore di cose antiche, di <persName ref="#Camuccini"><choice>
-                            <orig>Camoncini</orig>
-                            <corr>Camuccini</corr>
-                        </choice></persName> dove vi è tra l'altro un quadro di Attilio <choice>
-                        <orig>Raulo</orig>
-                        <corr>Regolo</corr>
-                    </choice>; di <persName ref="#Tadolini">Tadolini</persName>, che sta </p>
-                <pb n="10" xml:id="Diario8" facs="data/images/single/10.jpg"/>
-                <p>nello studio di <persName ref="#Canova">Canova</persName>, di cui era giovane,
-                    quale studio oggi è posseduto dal <persName ref="#Sartori">fratello di
-                        Canova</persName> prete; di <persName ref="#Deste">d'Este</persName> anche
-                    giovane di Canova: l'uno e l'altro hanno fatto de' graziosi lavori; di <persName
-                        ref="#Pozzi">Pozzi</persName> parimente bravo scultore; ritornammo a casa,
-                    pranzammo, alle tre e un quarto uscimmo per la visita delle Basiliche con tutta
-                    la Corte e le genti nostre; prima andammo a San Giovanni Laterano, dove vi sono
-                    le teste dei Santi Pietro e Paolo esposte, poi alla Scala Santa, che facemmo in
-                    ginocchio, ed entrammo al Sancta Sanctorum, di là passammo a Santa Maria
-                    Maggiore, dove venerammo la Reliquia della Culla, e molte altre insigni
-                    reliquie, poi passammo a Santa Maria a Trastevere, ch'è stata destinata dal
-                        <persName ref="#Papa">Papa</persName> per supplimento di San Paolo, dopo
-                    andammo a casa, vidi Medici e Ruffo mi confessai, vennero il corpo diplomatico,
-                    i cardinali uno dopo l'altro a fare i loro complimenti, vidi i ministri per
-                    concertare tutte le regalie da fare, ed a letto.</p>
-                <pb n="11" xml:id="Diario9" facs="data/images/single/11.jpg"/>
-                <lb/>
-                <l>16 aprile</l>
-                <p>Alzatomi, alle sette e un quarto uscimmo ed andammo alla Chiesa di San Pietro a
-                    fare l'anno Santo, poi passammo nella piccola Sagrestia ad aspettare il
-                        <persName ref="#Papa">Papa</persName> quando era pronto; venuto il medesimo,
-                    andammo all'altare della confessione di San Pietro, ove lui celebrò la messa,
-                    dopo fece la communione a noi ed alla nostra corte nobile, gli altri se la
-                    fecero nella Cappella del Sagramento, dopo calammo al Succorpo ad udir un'altra
-                    messa, a cui vi assistè anche il <persName ref="#Papa">Papa</persName>; dopo
-                    passammo alla Biblioteca ad attendere sua Santità, che andò a cambiarsi e
-                    ritornato passammo alla camera dei Papiri, dove uniti facemmo colazione, poi ci
-                    licenziammo e ritornammo a Casa; quindi sortimmo, andammo dal pittore <persName
-                        ref="#Wicar">Wicar</persName> ad osservare il quadro del Figlio della Vedova
-                    di Naim, poi alla Villa Panfili, quindi da Petra, pittore di animali, ritornati
-                    a casa venne il <persName ref="#Papa">Papa</persName>, ed io lo andai ad
-                    incontrare a piedi delle scale, salito so-</p>
-                <pb n="12" xml:id="Diario10" facs="data/images/single/12.jpg"/>
-                <p>pra, benedisse le corone, che gli facemmo trovare preparate nel Salone, entrò nel
-                    nostro appartamento, ci trattenemmo alquanto con lui a discorrere, che ammise
-                    poi al bacio del piede la nostra corte nobile ed in seguito tutti gli altri,
-                    dopo che se ne andiede, pranzammo, quindi andai a vedere l'opera de' Pellegrini
-                    tanto uomini che donne dove v'erano questa sera quattrocento e rotti molto ben
-                    serviti prima facendoli delle lavande con delle preci; sono serviti a tavola dai
-                    fratelli e dalle sorelle rispettive e poi passati ai dormitorii quindi ci fecero
-                    scrivere per fratello e sorella. Quest'opera sarebbe molto devota per il suo
-                    principio e per il bene che fanno ai poveri Pellegrini ma vi è bastante
-                    confusione per il concorso soverchio delle genti che non avendo altra
-                    divagazione in questo anno, tutta concorre là per conversazione piuttosto.
-                    Parimente un altro serio inconveniente vi è nei dormitori e </p>
-                <pb n="13" xml:id="Diario11" facs="data/images/single/13.jpg"/>
-                <p>quantunque belli pure i letti stanno a quattro file ed a due per letti. I letti
-                    però sono buoni, come parimenti è buono il mangiare. Da lì passammo dalla
-                        <persName ref="#MariaTeresa">regina vedova di Sardegna</persName>, vi
-                    restammo un poco in conversazione e ritirati a casa andammo a letto.</p>
+                <div>
+                    <head><date when="1825-04-11">11 Aprile</date></head>
+                    <p><lb n="1"/>Alzatomi, fatto qualche cosa, risediai <lb n="2"/>tutte le carte, vidi varie
+                        persone che <lb n="3"/>vennero a licenziarsi, vennero i figli <lb n="4"/>a baciarci la
+                        mano li benedissi e ci <lb n="5"/>licenziammo; alle dieci e mezzo partimmo in mez-
+                        <lb n="6"/>zo alle acclamazioni di tutta la popola- <lb n="7"/>zione io, mia moglie, il
+                        ragazzo ed il se- <lb n="8"/>guito composto de' Cavalieri Scilla,
+                        <lb n="9"/>Sanvalentino ed Ascoli, delle Dame <lb n="10"/>Sanvalentino, San Teodoro, il
+                        confesso- <lb n="11"/>re ed altre persone di servizio, alle <lb n="12"/>undici e mezza
+                        arrivammo ad <placeName ref="#Aversa">Aversa</placeName> vidi il ve-
+                        <lb n="13"/>scovo e l'uffizialità, vi trovai un cor- <lb n="14"/>riere d'Appelt, il quale
+                        mi disse che <lb n="15"/>una delle carrozze di <persName ref="#Leopoldo"
+                            >Leopoldo</persName> si era <lb n="16"/>rotto il collodoco, prima di prendere
+                        <lb n="17"/>la traversa di S. Maria fermammo e <lb n="18"/>mia moglie diede latte , la
+                        strada in <lb n="19"/>questa posta era orribile perché vi <lb n="20"/>avevano posto il
+                        brecciale, nel passar <placeName ref="#Capua">Capua</placeName>
+                        <lb n="21"/>vi fu la salva, i Generali, e <lb n="22"/>la Truppa sopra le Armi e le Auto-
+                        <lb n="23"/>rità si presentarono all'una e un quarto, arrivati
+                    <pb n="4" xml:id="Diario2" facs="data/images/single/4.jpg"/>
+                    <lb n="24"/>all'Agena aspettammo il ragazzo che <lb n="25"/>vi era rimasto dall'altra parte
+                        a mo- <lb n="26"/>tivo della salva e riuniti al medesimo <lb n="27"/>riprendemmo il
+                        cammino, vicino allo <lb n="28"/>spartimento si dovette alzare la car- <lb n="29"/>rozza
+                        che batteva, le campagne in <lb n="30"/>tutti questi luoghi erano in ottimo sta-
+                        <lb n="31"/>to, all'una e mezza essendo giunti a <placeName ref="#Sparanise"><choice>
+                                <orig>Sparanisi</orig>
+                                <corr>Sparanise</corr>
+                            </choice></placeName>
+                        <lb n="32"/>nel cambiar la posta ci baciarono le <lb n="33"/>mani tutte le Autorità e
+                        specialmen- <lb n="34"/>te Lotti, Favalli ed il Vescovo di Calvi, <lb n="35"/>alle 4
+                        giunti a Sant'Agata salimmo alla <lb n="36"/>Locanda per far colazione e si diede
+                        la <lb n="37"/>zuppa al ragazzo, in questo mentre <lb n="38"/>suonava la banda Tirolese
+                        ch'era là, <lb n="39"/>proseguimmo il viaggio, passammo il <lb n="40"/>ponte del
+                        Garigliano in carrozza, la <lb n="41"/>strada essendo superba arrivammo <lb n="42"/>alle 7
+                        a <placeName ref="#MoladiGaeta">Mola</placeName>, vedemmo tutte le
+                        <lb n="43"/>genti per complimento, pranzammo <lb n="44"/>ed a letto. In questa giornata
+                        cadde un <lb n="45"/>postiglione alla Porta del Gari- <lb n="46"/>gliano della carrozza
+                        delle Mozze di <lb n="47"/>Camera e si fece bastantemente <lb n="48"/>male. </p>
+                    <lb/>
+                </div>
+                <div>
+                    <pb n="5" xml:id="Diario3" facs="data/images/single/5.jpg"/>
+                     <head><date when="1825-04-12">12 Aprile</date></head>
+                    <p><lb n="1"/>Questa notte poco ho dormito per il <lb n="2"/>letto cattivo, alle cinque
+                        alzatomi feci <lb n="3"/>colazione, intesi la messa, alle 8 par- <lb n="4"/>timmo con
+                        una superba giornata. Alle <lb n="5"/>nove e mezza arrivammo ad <placeName
+                            ref="#Itri">Itri</placeName>, alle dieci e un quarto alla <lb n="6"/>calata di
+                        Sant'Andrea, e quando siamo <lb n="7"/>stati per prendere il piano, ci siamo
+                        <lb n="8"/>fermati per dar latte al ragazzo. Alle <lb n="9"/>dieci e tre quarti a
+                            <placeName ref="#Fondi">Fondi</placeName> abbiamo cambiata la po-
+                        <lb n="10"/>sta, fuori la città vi era molto ca- <lb n="11"/>napone che si maciollava,
+                        alle dodici e un quarto <lb n="12"/>arrivammo a <placeName ref="#Terracina"
+                            >Terracina</placeName>, vedemmo <lb n="13"/>le Autorità del luogo, galantuomini
+                        <lb n="14"/>ed altri che vollero presentarsi a noi, <lb n="15"/>lì facemmo colazione con
+                        Sant'Agapita, <lb n="16"/>Salluzzo, il Colonnello Marescolli, il Ve- <lb n="17"/>scovo, il
+                        Marchese Massimo, che erano <lb n="18"/>venuti per ordine di Sua Santità, ed
+                        <lb n="19"/>attenderoci al confine, all'una e un quarto par- <lb n="20"/>timmo, le
+                        campagne tutte erano bel- <lb n="21"/>lissime e verdi, e particolarmente <lb n="22"/>era
+                        bello lo Stradone delle Paludi, le <lb n="23"/>di cui campagne erano coverte di
+                        <lb n="24"/>bestiame con erbaggio bellissimo; do- <lb n="25"/>po la sosta di ponte
+                        maggiore cadde
+                    <pb n="6" xml:id="Diario4" facs="data/images/single/6.jpg"/>
+                        <lb n="26"/>uno de' nostri postiglioni, e propria- <lb n="27"/>mente quello di mezzo, che si
+                        fece molto <lb n="28"/>male, per cui si mandò per sandolo, al- <lb n="29"/>le due e mezza
+                        arrivammo a <placeName ref="#Mesa">Mesa</placeName>; alle tre e un quarto a
+                        <lb n="30"/><placeName ref="#BoccadiFiume">Bocca di Fiume</placeName>, là mia
+                        moglie diede <lb n="31"/>latte, e poi ripartimmo; alle quattro arrivam- <lb n="32"/>mo a
+                            <placeName ref="TorTrePonti"><choice>
+                                <orig>Torretreponti</orig>
+                                <corr>Tor Tre Ponti</corr>
+                            </choice></placeName> e cambiammo la <lb n="33"/>posta; alle cinque a
+                            <placeName ref="#CisternadiLatina">Cisterna</placeName> ma non cam-
+                        <lb n="34"/>biammo, si misero però due altri ca- <lb n="35"/>valli; alle sette giungemmo a
+                        <placeName ref="#Velletri">Velletri</placeName>, e <lb n="36"/>fermammo alla
+                        Locanda della po- <lb n="37"/>sta di Aringa; vidi i magistrati del <lb n="38"/>luogo, feci
+                        qualche cosa, cenammo e alle dieci <lb n="39"/>ed un quarto a letto.</p>
+                    <lb/>
+                </div>
+                <div>
+                                        <head><date when="1825-04-13">13 Aprile</date></head>
+                    <p><lb n="1"/>Alzatomi, andammo a sentire la mes- <lb n="2"/>sa dei <choice>
+                            <orig>Sommaschi</orig>
+                            <corr>Somaschi</corr>
+                        </choice> alla Chiesa di S. <lb n="3"/>Antonio; mia moglie diede latte, alle
+                        <lb n="4"/>8 partimmo, fuori la porta cadde <lb n="5"/>il cavallo di timone alla nostra
+                        car- <lb n="6"/>rozza, poi a quella del ragazzo, quindi <lb n="7"/>messici in cammino,
+                        poco dopo si la- <lb n="8"/>scia a destra una piccola ca- <lb n="9"/>va di lava
+                        vulcanica, da cui ne cacciano le <lb n="10"/>pietre per lastricare, la strada
+                        essen- <lb n="11"/>do tutte di colline poco si potè corre- <lb n="12"/>re, avendo dovuto
+                        sempre legare, e
+                    <pb n="7" xml:id="Diario5" facs="data/images/single/7.jpg"/>
+                        <lb n="13"/>sciogliere la scarpa; alle nove e mezza arrivam- <lb n="14"/>mo a <placeName
+                            ref="#CisternadiLatina">Cisterna</placeName>, e non si cambiarono i
+                        <lb n="15"/>cavalli, alle dieci e mezza giungemmo ad <placeName ref="#Albano"
+                            >Albano</placeName>, <lb n="16"/>ove vennero il Maestro di Camera
+                        <lb n="17"/>Barberini e Fuscaldo, coi quali con- <lb n="18"/>certammo il modo di andare
+                        dal <persName ref="#Papa">Papa</persName>, <lb n="19"/>poi girai la Casa ed il
+                        giardino che <lb n="20"/>hanno appartenuto un tempo a Carlo IV; <lb n="21"/>alle due e
+                        mezza partimmo e alle tre <lb n="22"/>giungemmo a <placeName ref="#Torremezzavia"
+                            >Torremezzavia</placeName>, lascian- <lb n="23"/>do indietro il ragazzo,
+                        arrivati a Porta <lb n="24"/>San Giovanni fummo ricevuti da un <lb n="25"/>picchetto di
+                        cavalleria pontificia e <lb n="26"/>da altra <choice>
+                            <orig>tuppa</orig>
+                            <corr>truppa</corr>
+                        </choice> della stessa e fummo <lb n="27"/>salutati dall'Artiglieria; giunti a
+                        <lb n="28"/>Palazzo Farnese, ritrovammo <persName ref="#Leopoldo"
+                            >Leopoldo</persName>, <lb n="29"/>la moglie, i due cavalieri Sagarola <lb n="30"/>ed
+                        Orsini e le due dame Doria e Piom- <lb n="31"/>bino commessionati dal <persName
+                            ref="#Papa">Papa</persName>, li rin- <lb n="32"/>graziammo, poi vidi varie
+                        persone <lb n="33"/>per complimenti e particolarmente <lb n="34"/>Piombino, Barberini,
+                        Santo Buono <lb n="35"/>Gentiluomo di Camera Napolitano, ci <lb n="36"/>vestimmo ed
+                        andammo dal <persName ref="#Papa">Papa</persName>, <lb n="37"/>che ci riceve' con
+                        somma cordialità quindi <lb n="38"/>gli presentammo la nostra corte per
+                        <lb n="39"/>baciargli il piede, dopo passammo dal-
+                    <pb n="8" xml:id="Diario6" facs="data/images/single/8.jpg"/>
+                    <lb n="40"/>la Regina <persName ref="#MariaTeresa">Maria Teresa di Sardegna</persName>
+                        <lb n="41"/>a villa Negrone, dove ci trattenemmo <lb n="42"/>alquanto con lei, e con le
+                        Figlie, del- <lb n="43"/>le quali Marianna rassomiglia perfet- <lb n="44"/>tamente a
+                        Teresa di Lucca, ritornati <lb n="45"/>a Casa trovammo la famiglia di Lucca,
+                        <lb n="46"/>pranzammo, ed a letto. </p>
+                    <lb/>
+                </div>
+                                <div>
+                    <head><date when="1825-04-14">14 Aprile</date></head>
+                    <p><lb n="1"/>Alzatomi, vidi l'ambasciatore di <lb n="2"/>Francia Lavalle Montmorency e
+                        <lb n="3"/>Monsignor Cerimoniere del <persName ref="#Papa">Papa</persName> per
+                        <lb n="4"/>parlarmi del modo di guadagnare <lb n="5"/>le indulgenze dell'anno Santo; poi
+                        <lb n="6"/>vidi Medici, e Ruffo, e l'aiutante <lb n="7"/>del Principe di Prussia
+                        Lappeto; ven- <lb n="8"/>nero le figlie della Regina <lb n="9"/>
+                        <persName ref="#MariaTeresa">Maria Teresa di Sardegna</persName> a farci
+                        visita, e <lb n="10"/>molte persone a baciarci la mano; <lb n="11"/>poi andammo al
+                        Vaticano a vedere <lb n="12"/>il braccio nuovo Egizio del Museo, scor <lb n="13"/>remmo le
+                        altre sale, la Chiesa di San <lb n="14"/>Pietro, poi andammo dal pittore
+                        <lb n="15"/>Napolitano Sessa, dopo ritornam- <lb n="16"/>mo a casa e pranzammo, poi an-
+                        <lb n="17"/>dammo alla casa del Governo a vedere <lb n="18"/>l'illuminazione di San Pietro
+                        tutta di
+                    <pb n="9" xml:id="Diario7" facs="data/images/single/9.jpg"/>
+                        <lb n="19"/>coppi di carta e poi ad un tratto s'il- <lb n="20"/>luminarono una gran
+                        quantità di <lb n="21"/>padelle di ferro di materie combusti- <lb n="22"/>bili che fu
+                        veramente magnifica, di <lb n="23"/>là passammo alla casa del Governo an- <lb n="24"/>cora
+                        a vedere la girandola che fu <lb n="25"/>uno spettacolo bellissimo ed avemmo
+                        <lb n="26"/>gran quantità di gelati, poi andam- <lb n="27"/>mo al Vaticano a vedere le
+                        statue <lb n="28"/>illuminate, ci ritirammo a casa, ed a <lb n="29"/>letto.</p>
+                                    <lb/>
+                </div>
+                <div>
+                    <head><date when="1825-04-15">15 Aprile</date></head>
+                    <p><lb n="1"/>Alzatomi, ci licenziammo con mio <lb n="2"/>fratello Leopoldo e la moglie, che
+                        <lb n="3"/>partirono, ed andammo a vedere le <lb n="4"/>rovine di San Paolo, quindi ai
+                        studi se- <lb n="5"/>guenti, cioè di <persName ref="#Thorvaldsen"><choice>
+                                <orig> Torwalson</orig>
+                                <corr>Thorvaldsen</corr>
+                        </choice></persName> ch'è il mi- <lb n="6"/>gliore fra tutti i scultori, de'
+                        due suoi <lb n="7"/>giovani <persName ref="#Bienaimé"><choice>
+                                <orig>Bianaimì</orig>
+                                <corr>Bienaimé</corr>
+                            </choice></persName> e <persName ref="#Tenerani"><choice>
+                                <orig>Tinerani</orig>
+                                <corr>Tenerani</corr>
+                            </choice></persName>, che <lb n="8"/>anche hanno dei belli lavori molto
+                        <lb n="9"/>graziosi; di <persName ref="#Alvarez">Alvarez</persName>, ch'è
+                        diventato <lb n="10"/>molto mediocre; di Vescovati, ch'è ri- <lb n="11"/>venditore di cose
+                        antiche, di <lb n="12"/><persName ref="#Camuccini"><choice>
+                                <orig>Camoncini</orig>
+                                <corr>Camuccini</corr>
+                        </choice></persName> dove vi è tra l'altro un quadro di <lb n="13"/>Attilio <choice>
+                            <orig>Raulo</orig>
+                            <corr>Regolo</corr>
+                        </choice>; di <persName ref="#Tadolini">Tadolini</persName>, che sta
+                    <pb n="10" xml:id="Diario8" facs="data/images/single/10.jpg"/>
+                        <lb n="14"/>nello studio di <persName ref="#Canova">Canova</persName>, di cui era
+                        <lb n="15"/>giovane, quale studio oggi è posse- <lb n="16"/>duto dal <rs ref="#Sartori"
+                            >fratello di Canova</rs> prete; di <lb n="17"/><persName ref="#Deste"
+                                >d'Este</persName> anche giovane di Canova: <lb n="18"/>l'uno e l'altro hanno
+                        fatto de' gra- <lb n="19"/>ziosi lavori; di <persName ref="#Pozzi">Pozzi</persName>
+                        parimente <lb n="20"/>bravo scultore; ritornammo a casa, <lb n="21"/>pranzammo, alle tre e
+                        un quarto uscimmo per <lb n="22"/>la visita delle Basiliche con tutta <lb n="23"/>la Corte
+                        e le genti nostre; prima <lb n="24"/>andammo a San Giovanni Laterano, <lb n="25"/>dove vi
+                        sono le teste dei Santi Pietro <lb n="26"/>e Paolo esposte, poi alla Scala Santa,
+                        <lb n="27"/>che facemmo in ginocchio, ed en- <lb n="28"/>trammo al Sancta Sanctorum, di là
+                        <lb n="29"/>passammo a Santa Maria Maggiore, do- <lb n="30"/>ve venerammo la Reliquia
+                        della <lb n="31"/>Culla, e molte altre insigni reliquie, <lb n="32"/>poi passammo a Santa
+                        Maria a Trasteve- <lb n="33"/>re, ch'è stata destinata dal <persName ref="#Papa"
+                            >Papa</persName> per <lb n="34"/>supplimento di San Paolo, dopo andam- <lb n="35"/>mo
+                        a casa, vidi Medici e Ruffo mi <lb n="36"/>confessai, vennero il corpo diplo-
+                        <lb n="37"/>matico, i cardinali uno dopo l'altro <lb n="38"/>a fare i loro complimenti,
+                        vidi <lb n="39"/>i ministri per concertare tutte <lb n="40"/>le regalie da fare, ed a
+                        letto.</p>
+                    <lb/>
+                </div>
+                   <div> 
+                    <pb n="11" xml:id="Diario9" facs="data/images/single/11.jpg"/>                                
+                                   <head><date when="1825-04-16">16 Aprile</date></head>
+                       <p><lb n="1"/>Alzatomi, alle sette e un quarto uscimmo ed andam- <lb n="2"/>mo alla Chiesa di San
+                           Pietro a fare l'an- <lb n="3"/>no Santo, poi passammo nella picco- <lb n="4"/>la
+                        Sagrestia ad aspettare il <persName ref="#Papa">Papa</persName> quan-
+                           <lb n="5"/>do era pronto; venuto il medesimo, <lb n="6"/>andammo all'altare della
+                           confessione <lb n="7"/>di San Pietro, ove lui celebrò la messa, do- <lb n="8"/>po fece
+                           la communione a noi ed al- <lb n="9"/>la nostra corte nobile, gli altri se la
+                           <lb n="10"/>fecero nella Cappella del Sagramento, <lb n="11"/>dopo calammo al Succorpo ad
+                           udir <lb n="12"/>un'altra messa, a cui vi assistè anche <lb n="13"/>il <persName
+                               ref="#Papa">Papa</persName>; dopo passammo alla Biblio- <lb n="14"/>teca ad
+                        attendere sua Santità, che <lb n="15"/>andò a cambiarsi e ritornato passam- <lb n="16"/>mo
+                           alla camera dei Papiri, dove uni- <lb n="17"/>ti facemmo colazione, poi ci licen-
+                           <lb n="18"/>ziammo e ritornammo a Casa; quin- <lb n="19"/>di sortimmo, andammo dal pittore
+                           <lb n="20"/><persName ref="#Wicar">Wicar</persName> ad osservare il quadro del
+                           Fi- <lb n="21"/>glio della Vedova di Naim, poi alla <lb n="22"/>Villa Panfili, quindi da
+                           Petra, pittore <lb n="23"/>di animali, ritornati a casa ven- <lb n="24"/>ne il <persName
+                               ref="#Papa">Papa</persName>, ed io lo andai ad incon- <lb n="25"/>trare a piedi
+                        delle scale, salito so-
+                    <pb n="12" xml:id="Diario10" facs="data/images/single/12.jpg"/>
+                           <lb n="26"/>pra, benedisse le corone, che gli <lb n="27"/>facemmo trovare preparate nel
+                           <lb n="28"/>Salone, entrò nel nostro apparta- <lb n="29"/>mento, ci trattenemmo alquanto
+                           <lb n="30"/>con lui a discorrere, che ammise poi <lb n="31"/>al bacio del piede la nostra
+                           corte <lb n="32"/>nobile ed in seguito tutti gli altri, <lb n="33"/>dopo che se ne
+                           andiede, pranzam- <lb n="34"/>mo, quindi andai a vedere l'opera <lb n="35"/>de' Pellegrini
+                           tanto uomini che <lb n="36"/>donne dove v'erano questa sera quattrocento <lb n="37"/>e
+                           rotti molto ben serviti prima <lb n="38"/>facendoli delle lavande con delle
+                           <lb n="39"/>preci; sono serviti a tavola dai fra- <lb n="40"/>telli e dalle sorelle
+                           rispettive e <lb n="41"/>poi passati ai dormitorii quindi ci <lb n="42"/>fecero scrivere
+                           per fratello e so- <lb n="43"/>rella. Quest'opera sarebbe molto <lb n="44"/>devota per il
+                           suo principio e per <lb n="45"/>il bene che fanno ai poveri Pel- <lb n="46"/>legrini ma vi
+                           è bastante confusio- <lb n="47"/>ne per il concorso soverchio delle <lb n="48"/>genti che
+                           non avendo altra diva- <lb n="49"/>gazione in questo anno, tutta con- <lb n="50"/>corre là
+                           per conversazione piutto- <lb n="51"/>sto. Parimente un altro serio in-
+                           <lb n="52"/>conveniente vi è nei dormitori e 
+                    <pb n="13" xml:id="Diario11" facs="data/images/single/13.jpg"/>
+                           <lb n="53"/>quantunque belli pure i letti stan- <lb n="54"/>no a quattro file ed a due per
+                           letti. <lb n="55"/>I letti però sono buoni, come pari- <lb n="56"/>menti è buono il
+                           mangiare. Da lì <lb n="57"/>passammo dalla <persName ref="#MariaTeresa">regina
+                               vedova di <lb n="58"/>Sardegna</persName>, vi restammo un poco in
+                           <lb n="59"/>conversazione e ritirati a casa andammo <lb n="60"/>a letto.</p>
+                                      </div>
             </div>
+           
         </body>
     </text>
 </TEI>
